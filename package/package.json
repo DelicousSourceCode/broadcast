@@ -1,0 +1,19 @@
+{
+  "name": "broadcast-js",
+  "version": "1.0.0",
+  "description": "Web Socket API For JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DelicousSourceCode/broadcast-js.git"
+  },
+  "author": "@DeliciousSourceCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DelicousSourceCode/broadcast-js/issues"
+  },
+  "homepage": "https://github.com/DelicousSourceCode/broadcast-js#readme"
+}
